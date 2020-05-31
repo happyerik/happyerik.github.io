@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://happyerik.github.io</id>
     <title>happyerik&apos;s world</title>
-    <updated>2020-05-31T14:29:14.950Z</updated>
+    <updated>2020-05-31T14:30:35.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://happyerik.github.io"/>
     <link rel="self" href="https://happyerik.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://happyerik.github.io/images/avatar.png</logo>
     <icon>https://happyerik.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, happyerik&apos;s world</rights>
+    <entry>
+        <title type="html"><![CDATA[Good Start]]></title>
+        <id>https://happyerik.github.io/post/good-start/</id>
+        <link href="https://happyerik.github.io/post/good-start/">
+        </link>
+        <updated>2020-05-31T14:30:07.000Z</updated>
+        <content type="html"><![CDATA[<p>From 2020.05.31</p>
+]]></content>
+    </entry>
 </feed>
